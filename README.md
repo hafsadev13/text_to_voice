@@ -57,6 +57,6 @@ Language Support: Actual language support depends on what's installed on the use
 Network: Initial voice downloads may require internet connection on some devices
 
 ScreenRecording:
-[Screen_Recording_20250730_221129.mp4](..%2F..%2FDownloads%2FScreen_Recording_20250730_221129.mp4)
+assets/App_Screen_Recording.mp4
 
 Note: For the best experience, test the app on physical devices as TTS functionality is limited on emulators.
