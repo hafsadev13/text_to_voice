@@ -4,7 +4,7 @@ A beautiful and feature-rich Text-to-Speech (TTS) application built with Flutter
 
 Features:
 
-Multi-language Support: English, French, Spanish, German, Italian, and Arabic
+Multi-language Support
 Voice Gender Selection: Switch between male and female voices
 Modern UI: Beautiful gradient design with smooth animations
 Real-time Status: Live feedback on speech status and voice availability
@@ -57,6 +57,6 @@ Language Support: Actual language support depends on what's installed on the use
 Network: Initial voice downloads may require internet connection on some devices
 
 ScreenRecording:
-
+[Screen_Recording_20250730_221129.mp4](..%2F..%2FDownloads%2FScreen_Recording_20250730_221129.mp4)
 
 Note: For the best experience, test the app on physical devices as TTS functionality is limited on emulators.
